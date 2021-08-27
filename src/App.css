@@ -230,6 +230,9 @@ nav{
   }
 }
 @media(max-width: 1100px){
+  nav{
+    display: none;
+  }
   main, .chat-bar-input-block{
     width: 100%;
   }
